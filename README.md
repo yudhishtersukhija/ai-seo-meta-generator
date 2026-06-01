@@ -24,15 +24,21 @@ AI SEO Meta Generator helps WordPress users create SEO-friendly metadata directl
 
 ### SEO Meta Box
 
-Screenshot coming soon.
+Custom WordPress meta box for generating SEO metadata.
+
+![SEO Meta Box](meta-box.png)
 
 ### Settings Page
 
-Screenshot coming soon.
+Plugin settings page prepared for OpenAI API integration.
+
+![Settings Page](settings-page.png)
 
 ### Generated SEO Metadata
 
-Screenshot coming soon.
+Generated SEO title and meta description using the AJAX-powered workflow.
+
+![Generated SEO Metadata](generation-demo.png)
 
 ## Project Structure
 
