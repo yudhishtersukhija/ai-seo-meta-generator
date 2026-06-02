@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: Yudhishter Sukhija
  * Author URI: https://yudhishtersukhija.com
- * License: GPL2
+ * License: GPL-2.0-or-later
  * Text Domain: ai-seo-meta-generator
  */
 
