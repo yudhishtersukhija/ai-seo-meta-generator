@@ -172,6 +172,6 @@ Website: https://yudhishtersukhija.com
 
 ## License
 
-GPL v2 or later
+This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
 
-This project is open-source and available under the GPL license.
+See the LICENSE file for details.
