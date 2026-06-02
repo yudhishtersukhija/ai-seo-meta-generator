@@ -24,15 +24,21 @@ AI SEO Meta Generator helps WordPress users create SEO-friendly metadata directl
 
 ### SEO Meta Box
 
-Screenshot coming soon.
+Custom WordPress meta box for generating SEO metadata.
 
-### Settings Page
-
-Screenshot coming soon.
+![SEO Meta Box](screenshots/meta-box.png)
 
 ### Generated SEO Metadata
 
-Screenshot coming soon.
+Generated SEO title and meta description using the AJAX-powered workflow.
+
+![Generated SEO Metadata](screenshots/generation-demo.png)
+
+### Settings Page
+
+Plugin settings page prepared for OpenAI API integration.
+
+![Settings Page](screenshots/settings-page.png)
 
 ## Project Structure
 
@@ -166,6 +172,6 @@ Website: https://yudhishtersukhija.com
 
 ## License
 
-GPL v2 or later
+This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
 
-This project is open-source and available under the GPL license.
+See the LICENSE file for details.
